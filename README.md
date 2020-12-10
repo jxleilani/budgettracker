@@ -1,4 +1,5 @@
-# Online/Offline Budget Tracker
+# Online/Offline Budget Tracker ![Heroku](https://pyheroku-badge.herokuapp.com/?app=evening-coast-98822&style=plastic) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Progressive Web Application (PWA) that allows the user to add expenses and deposits to their budget with or without a connection. If entering transactions offline, they will still be populated and calculated once brought back online. 
 
 ![Screenshot of transaction graph](https://jxleilani.github.io/budgettracker/assets/screenshot.png)
