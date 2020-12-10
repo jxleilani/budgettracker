@@ -1,6 +1,8 @@
 # Online/Offline Budget Tracker
 A Progressive Web Application (PWA) that allows the user to add expenses and deposits to their budget with or without a connection. If entering transactions offline, they will still be populated and calculated once brought back online. 
 
+![Screenshot of transaction graph](https://jxleilani.github.io/budgettracker/assets/screenshot.png)
+
 ## User Story
 >AS A user who travels frequently  
 I WANT to be able to track my transactions with or without a data/internet connection  
