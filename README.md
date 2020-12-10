@@ -2,7 +2,7 @@
 
 A Progressive Web Application (PWA) that allows the user to add expenses and deposits to their budget with or without a connection. If entering transactions offline, they will still be populated and calculated once brought back online. 
 
-![screenshot](https://user-images.githubusercontent.com/67127664/101809068-18078580-3ae5-11eb-88f3-c1828fead415.png =250x)
+![screenshot](./assets/screenshot.png)<img src="./assets/screenshot.png" width="300">
 
 ## User Story
 >AS A user who travels frequently  
